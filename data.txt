@@ -1,1 +1,21 @@
 base code of project
+
+git clone git@github.com:vishal151092/session_2_git.git
+
+git status
+
+red color file name  (changes are not staged)
+
+git add <file_name>  (.)    [to stage changes]
+
+git commit -m "msg"
+
+git push
+
+
+git reset --hard
+
+
+git pull  (taking latest in current branch)
+
+git fetch (sync )
